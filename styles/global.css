@@ -1,0 +1,13 @@
+/* Sections */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-container {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 30px 0;
+}
